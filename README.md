@@ -9,6 +9,6 @@ The dashboard helps in understanding the sales analysis with following segments
 - Star-schema data model
 ---
  ## Tools used 
- Power BI
- MS Excel
- Laptop
+- Power BI
+- MS Excel
+- Laptop
